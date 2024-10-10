@@ -1,2 +1,10 @@
-# cw-illuminati
-Replaces the upvote arrow with the Illuminati symbol.
+# CW Illuminati
+Заменяет кнопку поднятия рейтинга поста на символ Иллюминатов.
+
+# (˶˃ ᵕ ˂˶)
+### Не работает?
+- Почистите кэш и обновите страницу.
+### Нашли баг?
+- Напишите [запрос](https://github.com/reni4ka/cw-illuminati/issues) и подробно расскажите о проблеме.
+### Желаете связаться?
+- [CW](https://catwar.su/cat597671), [ссылки в профиле](https://github.com/reni4ka).
