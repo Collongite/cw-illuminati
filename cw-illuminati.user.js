@@ -19,15 +19,21 @@
         if (voteArrows.length > 0) {
             voteArrows.forEach(function(arrow) {
                 arrow.innerHTML = '';
-
                 const img = document.createElement('img');
                 img.src = 'http://d.zaix.ru/Jaju.png';
                 img.alt = 'Illuminati';
                 img.style.width = '17px';
                 img.style.height = '19px';
+                img.style.cursor = 'pointer';
+
+                img.style.pointerEvents = 'none';
 
                 arrow.appendChild(img);
+
+                arrow.addEventListener('click', function(event) {
+                    event.preventDefault();
             });
+        });
 
             clearInterval(checkExist);
         }
