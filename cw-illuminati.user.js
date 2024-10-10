@@ -7,6 +7,7 @@
 // @match        https://catwar.su/sniff*
 // @icon         http://d.zaix.ru/Jaju.png
 // @grant        none
+// @license      MIT
 // ==/UserScript==
 
 (function() {
