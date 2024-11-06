@@ -5,6 +5,7 @@
 // @description  Replaces the upvote arrow with the Illuminati symbol.
 // @author       reni4ka/Ren
 // @match        http*://*.catwar.su/*
+// @match        http*://*.catwar.net/*
 // @icon         http://d.zaix.ru/Jaju.png
 // @grant        none
 // @license      MIT
