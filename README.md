@@ -7,4 +7,4 @@
 ### Нашли баг?
 - Напишите [запрос](https://github.com/reni4ka/cw-illuminati/issues) и подробно расскажите о проблеме.
 ### Желаете связаться?
-- [CW](https://catwar.su/cat597671), [ссылки в профиле](https://github.com/reni4ka).
+- [CW](https://catwar.net/cat597671), [ссылки в профиле](https://github.com/DeadPhos).
