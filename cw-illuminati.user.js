@@ -2,10 +2,10 @@
 // @name         CW Illuminati
 // @namespace    http://tampermonkey.net/
 // @version      1.1
-// @updateURL    https://github.com/reni4ka/cw-illuminati/raw/refs/heads/main/cw-illuminati.user.js
-// @downloadURL  https://github.com/reni4ka/cw-illuminati/raw/refs/heads/main/cw-illuminati.user.js
+// @updateURL    https://github.com/DeadPhos/cw-illuminati/raw/main/cw-illuminati.user.js
+// @downloadURL  https://github.com/DeadPhos/cw-illuminati/raw/main/cw-illuminati.user.js
 // @description  Replaces the upvote arrow with the Illuminati symbol.
-// @author       reni4ka/Ren
+// @author       reni4ka/Ren/DeadPhos
 // @match        http*://*.catwar.su/*
 // @match        http*://*.catwar.net/*
 // @icon         http://d.zaix.ru/Jaju.png
