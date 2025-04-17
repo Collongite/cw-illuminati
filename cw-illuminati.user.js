@@ -15,7 +15,7 @@
 
 (function() {
     'use strict';
-// тестовый комментарий. если вы видите его, то всё работает как надо.
+
     function Illuminate() {
         const voteArrows = document.querySelectorAll('a.vote[data-vote="up"]');
 
