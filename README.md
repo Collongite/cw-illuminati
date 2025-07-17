@@ -5,6 +5,6 @@
 ### Не работает?
 - Почистите кэш и обновите страницу.
 ### Нашли баг?
-- Напишите [запрос](https://github.com/DeadPhos/cw-illuminati/issues) и подробно расскажите о проблеме.
+- Напишите [запрос](https://github.com/Collongite/cw-illuminati/issues) и подробно расскажите о проблеме.
 ### Желаете связаться?
-- [CW](https://catwar.net/cat597671), [ссылки в профиле](https://github.com/DeadPhos).
+- [CW](https://catwar.net/cat597671).
